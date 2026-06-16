@@ -1,4 +1,3 @@
-# blockbuster-movie-model-risk-analysis
 # Blockbuster Risk Analysis Data Dictionary
 
 ## Dataset
