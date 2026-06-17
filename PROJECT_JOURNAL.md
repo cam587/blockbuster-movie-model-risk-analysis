@@ -26,9 +26,14 @@ The project will use Python, Microsoft SQL Server, and dashboarding tools to exp
 1. Are blockbuster production budgets increasing over time?
 2. Are worldwide grosses keeping pace with rising budgets?
 3. Are sequels and established franchises safer than original films?
-4. Which studios, genres, and IP types have the highest hit rates?
+4. Which franchises, genres, and IP types have the highest hit rates?
 5. Are modern blockbusters becoming more dependent on international audiences?
-6. Can a model predict whether a blockbuster will be a hit, borderline result, or miss?
+6. Can a model predict whether a blockbuster will be a major hit, hit, break even, or miss?
+7. How have worldwide grosses changed from pre-COVID to post-COVID?
+8. What year was the best for blockbusters? The worst?
+9. Which Studios have the highest rate?
+10. Which budget category has the highest hit rates? The lowest?
+11. How does popularity, audience core, or runtime correlate to hit status?
 
 ---
 
