@@ -1,21 +1,27 @@
 # Blockbuster Risk Analysis — Project Journal
 
-This journal documents my decisions, questions, challenges, and progress while building the Blockbuster Risk Analysis project.
+This journal documents my decisions, questions, challenges, and progress while building the Blockbuster Risk Analysis project that will analyze the financial reliability of modern blockbusters.
 
 ---
 
 ## Project Goal
 
-Analyze whether the modern blockbuster movie model is becoming financially riskier.
+Analyze whether the modern blockbuster movie model is becoming financially riskier,  and identify film characteristics that could help premium-format exhibitors such as IMAX evaluate content risk, prioritize screen allocation, and understand which genres, franchises, studios, and release periods offer the strongest potential.
 
-The blockbuster model includes:
+IMAX earns meaningful revenue from:
+- Box-office-related revenue -- **ticket-related arrangements**: IMAX works with studios to convert or optimize movies for the IMAX format and distribute those movies across its theater network. Depending on the arrangement, IMAX earns fees or a share connected to IMAX's box-office performance.
+- Content Solutions --  **Digital Media Remastering**: IMAX uses its patented DMR (Digital Media Remastering) process to enhance the picture and sound quality of Hollywood blockbusters, local-language films, and live events (like concerts) specifically for its large screens. For this service, IMAX earns a percentage of the box-office gross from every ticket sold globally for that engagement.
+- Theatre technology -- **joint revenue-sharing arrangements**: IMAX’s margins are more than double those of cinema chains such as AMC and Regal, because it does not bear the costs of owning theatres or employing ushers. It makes its money by selling or licensing its screens and other technology to cinema operators, and by taking a cut of their box-office receipts. When a film bombs, IMAX simply misses out on a percentage of ticket sales without absorbing the empty seats or the venue's maintenance costs, unlike AMC or Regal.
+- 
 
-* Large production budgets
-* Major marketing campaigns
-* Established intellectual property
-* Franchise films, sequels, remakes, and adaptations
-* Global theatrical releases
-* Reliance on international and secondary markets
+Those revenues depend partly on having films that audiences
+are willing to experience at a premium price.
+
+My project evaluates which types of blockbusters are financially
+Reliable and best suited to premium theatrical exhibition.
+
+The analysis could help inform film prioritization, release scheduling,
+studio partnerships, international strategy, and screen investment.
 
 The project will use Python, Microsoft SQL Server, and dashboarding tools to explore which factors are associated with blockbuster success or failure.
 
