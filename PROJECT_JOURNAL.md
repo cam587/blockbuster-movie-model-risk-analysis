@@ -19,7 +19,6 @@ The project will use Python, Microsoft SQL Server, and dashboarding tools to exp
 
 ---
 This helps determine whether spending more money actually reduces risk or creates larger financial exposure.
-## Research Questions
 
 ## Research Questions
 
