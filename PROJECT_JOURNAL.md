@@ -42,7 +42,7 @@ From 2015 to 2025, year-over-year, budgets and grosses are moving in positive co
 ---
 
 #### 2. Are mega-budget movies more likely to be major hits, hits, break-even results, or misses?
-According to the data, the last 14 mega budeget films, being a production budget of $250+ million
+According to the data, there have been 14 mega-budget films (production budget of $250+ million) since 2015, 50% have been a major hit or hit (Major Hit = 4.0x 
 * **Why is this important to IMAX?**
   Mega-budget movies are often designed as global theatrical events and are therefore especially important to premium exhibitors. Even when a movie does not meet a studio's estimated profitability target, it may still generate substantial worldwide ticket sales from which IMAX can earn revenue. However, if mega-budget films increasingly fail to attract large audiences, IMAX may face weaker box-office participation and more difficulty filling premium screens with high-demand content.
 
