@@ -29,9 +29,9 @@ The analysis is organized into four business categories: financial risk, content
 ### Financial Risk
 
 #### 1. Are blockbuster production budgets increasing faster than worldwide grosses over time?
-
+From 2015 to 2025, year-over-year, budgets and grosses are moving in positive correlation. Over time, average production budgets from 2015 have increased _ to _ in 2025, while average worldwide grosses have decreased _ to _ in 2025. So yes, production budgets are increasing faster than worldwide grosses over time.
 * **Why is this important to IMAX?**
-  This question tests whether the blockbuster model is becoming less financially sustainable. IMAX depends on studios continuing to produce large-scale theatrical releases that audiences are willing to experience in premium formats. If production costs rise faster than worldwide box-office revenue, studios may reduce the number of expensive theatrical releases, shorten theatrical windows, or become more selective about blockbuster investment. That could weaken the future supply of films available for IMAX screens.
+  This insight shows blockbuster model is becoming less financially sustainable. IMAX depends on studios continuing to produce large-scale theatrical releases that audiences are willing to experience in premium formats. Since production costs are rising faster than worldwide box-office revenue, studios may reduce the number of expensive theatrical releases, shorten theatrical windows, or become more selective about blockbuster investment. That could weaken the future supply of films available for IMAX screens. Furthermore, IMAX must remain cautious about the blockbusters they decide to invest in. They should be selling their equipment to films they believe are going to succeed. Although IMAX doesn't deal with the burden of a flop, it would be advantageous to IMAX if the film does well at the box office. 
 
 * **Data used:**
   `release_year`, `production_budget`, and `worldwide_gross`
@@ -42,7 +42,7 @@ The analysis is organized into four business categories: financial risk, content
 ---
 
 #### 2. Are mega-budget movies more likely to be major hits, hits, break-even results, or misses?
-
+According to the data, the last 14 mega budeget films, being a production budget of $250+ million
 * **Why is this important to IMAX?**
   Mega-budget movies are often designed as global theatrical events and are therefore especially important to premium exhibitors. Even when a movie does not meet a studio's estimated profitability target, it may still generate substantial worldwide ticket sales from which IMAX can earn revenue. However, if mega-budget films increasingly fail to attract large audiences, IMAX may face weaker box-office participation and more difficulty filling premium screens with high-demand content.
 
