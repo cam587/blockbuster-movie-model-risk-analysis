@@ -42,9 +42,9 @@ From 2015 to 2025, year-over-year, budgets and grosses are moving in positive co
 ---
 
 #### 2. Are mega-budget movies more likely to be major hits, hits, break-even results, or misses?
-According to the data, there have been 14 mega-budget films (production budget of $250+ million) since 2015, 50% have been a major hit or hit (Major Hit = 4.0x 
+According to the data, there have been 28 mega-budget films (production budget of $250+ million) since 2015, 50% have been a major hit or hit (Major Hit = 4.0+x budget, Hit = 3.0x-4.0x budget), and the other 50% being misses. Mega-budget films are extremely hit-or-miss, and the average profitability ratio in 2019 has decreased from 2.19 to .86 in 2025, converting to about a 61% decrease. 
 * **Why is this important to IMAX?**
-  Mega-budget movies are often designed as global theatrical events and are therefore especially important to premium exhibitors. Even when a movie does not meet a studio's estimated profitability target, it may still generate substantial worldwide ticket sales from which IMAX can earn revenue. However, if mega-budget films increasingly fail to attract large audiences, IMAX may face weaker box-office participation and more difficulty filling premium screens with high-demand content.
+  Mega-budget movies are often designed as global theatrical events and are therefore especially important to premium exhibitors. Even when a movie does not meet a studio's estimated profitability target, it may still generate substantial worldwide ticket sales from which IMAX can earn revenue. However, as mega-budget films increasingly fail to attract large audiences, IMAX faces weaker box-office participation and more difficulty filling premium screens with high-demand content.
 
 * **Data used:**
   `budget_tier` and `hit_status`
@@ -55,9 +55,9 @@ According to the data, there have been 14 mega-budget films (production budget o
 ---
 
 #### 3. Has the average profitability ratio changed over time?
-
+The average profitability ratio has decreased from 1.47 in 2015 to 1.25 in 2015, with its peak being 1.54 in 2018, and its low being 0.4 in 2020 due to COVID-19. Post-COVID, the average profitability ratio never reached above 1.3.
 * **Why is this important to IMAX?**
-  This question measures whether blockbusters are becoming more or less financially efficient. A declining profitability ratio may indicate that studios are spending more without receiving proportional box-office returns. Although IMAX does not directly absorb a movie's full production loss, continued studio underperformance could reduce future investment in large theatrical releases and weaken IMAX's long-term content pipeline.
+  This question shows blockbusters are becoming less financially efficient, implying the root cause has been COVID-19, as the ratio never broke 1.5 again after doing it 3 out of 5 years before the pandemic. A declining profitability ratio indicates that studios are spending more without receiving proportional box-office returns. Although IMAX does not directly absorb a movie's full production loss, continued studio underperformance could reduce future investment in large theatrical releases and weaken IMAX's long-term content pipeline.
 
 * **Data used:**
   `release_year` and `profitability_ratio`
